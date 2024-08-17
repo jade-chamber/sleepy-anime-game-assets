@@ -35,12 +35,7 @@
     </table>
 </div>
 
-###
-
-> [!TIP]  
-> You can use [DownGit](https://micchi-108.github.io/DownGit-Micchi/) to download individual folders that you want instead of downloading everything.  
-
-###
+<h4> <b>[ !!! ]</b> <br> You can use <a href="https://micchi-108.github.io/DownGit-Micchi/">DownGit</a> to download individual folders instead of downloading everything.</h4>
 
 </div>
 
