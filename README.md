@@ -7,7 +7,7 @@
 <h3> sleepy-anime-game-assets </h3>
 <p> 💤  Archive of assets from sleepy anime-game </p>
 
-<img height="500" src="https://github.com/jade-chamber/neatly-stacked-scrolls/blob/main/sleepy-anime-game-assets/1.0.1/png/readmeme.png?raw=true" alt="Readmeme"/>
+<img height="500" src="https://github.com/jade-chamber/neatly-stacked-scrolls/blob/main/sleepy-anime-game-assets/1.1.0/png/readmeme.png?raw=true" alt="Readmeme"/>
 
 </div>
 
@@ -17,7 +17,7 @@
 
 <div align="center">
 
-<p align="center"><b>Current Version: 1.0.1</b></p>
+<p align="center"><b>Current Version: 1.1.0</b></p>
 <div align="center">
     <table align="center">
         <tr>
@@ -35,7 +35,7 @@
     </table>
 </div>
 
-> [!TIP]
+> [!TIP]  
 > You can use <a href="https://micchi-108.github.io/DownGit-Micchi/">DownGit</a> to download individual folders that you want instead of downloading everything.
 
 </div>
